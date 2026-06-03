@@ -1,7 +1,48 @@
 # codealpha_tasks
 This repository contains my CodeAlpha internship tasks including web scraping and data-related projects using Python.
 
-TASK 4:-
+Task 1: Web Scraping
+Objective
+
+Extract data from a website and store it in a structured format.
+
+Tools Used
+Python
+Requests
+BeautifulSoup
+Pandas
+Output
+Scraped book dataset saved in CSV format.
+
+
+
+Task 2: Exploratory Data Analysis (EDA)
+Objective
+
+Perform exploratory data analysis on the Zepto dataset to identify trends, patterns, and business insights.
+
+Tasks Performed
+Data Loading and Inspection
+Data Cleaning
+Missing Value Analysis
+Data Type Analysis
+Descriptive Statistics
+Category-wise Analysis
+Product Price Analysis
+Stock Availability Analysis
+Tools Used
+Python
+Pandas
+NumPy
+Matplotlib
+Key Insights
+Dataset contains 3732 records and 9 columns.
+No missing values were found.
+Category-wise product distribution was analyzed.
+Average, minimum, and maximum product prices were examined.
+Out-of-stock product analysis was performed.
+
+
 Task 4: Sentiment Analysis
 Objective
 To analyze Amazon customer reviews and determine the sentiment expressed in the reviews.Dataset
